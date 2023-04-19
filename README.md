@@ -1,5 +1,5 @@
-## Привет 👋, меня зовут Женя 
-# И я начинающий frontend разработчик
+### Привет 👋, меня зовут Женя 
+## И я начинающий frontend разработчик
 
 Хочу работать над реальными проектами    
 Мечтаю делать качественные вещи    
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 |![icons8-rest-api-26](https://user-images.githubusercontent.com/70646350/119323556-7e452680-bc87-11eb-9cd2-fc2293869858.png) **`REST API`**| ![icons8-webpack-26](https://user-images.githubusercontent.com/70646350/119315153-38d02b80-bc7e-11eb-8198-9f3eb058edef.png) **`webpack`** |![mongodb_original_logo_icon_146424](https://user-images.githubusercontent.com/70646350/119320033-ceba8500-bc83-11eb-9455-537f415c9fe1.png) **`mongoDB`**|![pngwing com](https://user-images.githubusercontent.com/70646350/119322690-8bade100-bc86-11eb-9660-cbfee5afd4a5.png)**`express.js`**| ![icons8-git-26](https://user-images.githubusercontent.com/70646350/119321913-cc592a80-bc85-11eb-9540-8605bd48f3f7.png) **`git`**|
 
 
-## контакты
+## Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mistik9)
 
